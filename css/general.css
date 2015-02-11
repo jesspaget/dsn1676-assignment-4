@@ -11,3 +11,11 @@ html {
 *, *:before, *:after {
 	box-sizing: inherit;
 }
+
+h1 {
+    color: green;
+}
+
+dt {
+    font-weight: bold;
+}
